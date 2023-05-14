@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-contact-background {
+    background-image: url('/img44.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:80vh;
+    opacity: 1.0;
+}
