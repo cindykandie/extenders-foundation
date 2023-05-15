@@ -13,7 +13,7 @@ export default function Contactus() {
 
           <div className="md:flex justify-around text-white mt-12">
             <div className="flex flex-col items-center">
-              <img src="/icons/location22.png" alt="address" class="h-12" />
+              <img src="/icons/location22.png" alt="address" className="h-12" />
               <h3 className="mt-4 font-bold text-lg">ADDRESS</h3>
               <h4 className="mt-3 text-md">CBD OFFICE</h4>
               <p>3rd floor, highrise building</p>
@@ -24,7 +24,7 @@ export default function Contactus() {
               <p>Mama Ngina Street</p>
             </div>
             <div className="hidden md:flex flex-col items-center">
-              <img src="/icons/ringing.png" alt="location" class="h-12" />
+              <img src="/icons/ringing.png" alt="location" className="h-12" />
               <h3 className="mt-4 font-bold text-lg">PHONE</h3>
               <h4 className="mt-3 text-md">CBD OFFICE</h4>
               <p>+254700 000 000</p>
@@ -35,7 +35,7 @@ export default function Contactus() {
               <p>+254700 000 000</p>
             </div>
             <div className="hidden md:flex flex-col items-center">
-              <img src="/icons/email1.png" alt="mail" class="h-12" />
+              <img src="/icons/email1.png" alt="mail" className="h-12" />
               <h3 className="mt-4 font-bold text-lg">EMAIL</h3>
               <h4 className="mt-3 text-md">ENQUIRIES</h4>
               <p>enquiry@charity.com</p>

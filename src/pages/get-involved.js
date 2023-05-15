@@ -1,6 +1,6 @@
 import CustomHead from '@/components/CustomHead'
 import Image from "next/image";
-import { sectionsData } from "@/components/webData/sectionsData";
+import { sectionsData } from "@/webData/sectionsData";
 import React from 'react'
 
 export default function Involved() {

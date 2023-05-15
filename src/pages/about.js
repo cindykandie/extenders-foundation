@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { boardMembers, allMembers, values } from "@/components/webData/members";
+import { boardMembers, allMembers, values } from "@/webData/members";
 import BoardMembers from "@/components/BoardMembers";
 import AllMembers from "@/components/AllMembers";
 import CoreValue from "@/components/CoreValue";
