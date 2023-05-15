@@ -1,6 +1,6 @@
 import CustomHead from '@/components/CustomHead';
 import React from 'react';
-import { upcomingEvents, pastEvents } from '@/webData/events';
+import { upcomingEvents, pastEvents } from '@/components/webData/events';
 
 export default function Events() {
   return (
